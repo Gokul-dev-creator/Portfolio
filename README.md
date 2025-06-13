@@ -1,6 +1,6 @@
 # Gokul's Personal Portfolio Website
 
-_**(Suggestion: Add a screenshot of your live portfolio here!)**_
+<img src="https://github.com/Gokul-dev-creator/Portfolio/blob/main/Picsart_25-04-20_07-54-23-633.jpg">
 
 Welcome to the repository for my personal portfolio website. This site is a showcase of my skills, projects, and journey as a developer. It's built with clean, fundamental web technologies to be fast, responsive, and easy to navigate.
 
